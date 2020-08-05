@@ -12,3 +12,5 @@ eureka:
 
 zuul:
   prefix: /api # 路由路径前缀
+  routes:
+    item-service: /item/**
