@@ -7,6 +7,7 @@ spring:
     url: jdbc:mysql://localhost:3305/hm49
     username: root
     password: 123456
+    driverClassName: com.mysql.jdbc.Driver
 
 eureka:
   client:
