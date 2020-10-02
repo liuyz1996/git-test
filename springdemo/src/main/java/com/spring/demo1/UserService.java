@@ -1,5 +1,7 @@
 package com.spring.demo1;
 
+import com.sun.org.apache.bcel.internal.generic.NEW;
+
 /**
  * <一句话功能简述><br>
  * <>
@@ -12,6 +14,7 @@ package com.spring.demo1;
 public interface UserService {
 
     void Hello();
+
 
 
 }
