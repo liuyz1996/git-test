@@ -32,6 +32,12 @@
             <artifactId>log4j</artifactId>
             <version>1.2.12</version>
         </dependency>
+
+        <dependency>
+            <groupId>tk.mybatis</groupId>
+            <artifactId>mapper</artifactId>
+            <version>LATEST</version>
+        </dependency>
     </dependencies>
 
 </project>
